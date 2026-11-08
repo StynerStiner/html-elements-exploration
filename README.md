@@ -24,7 +24,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/Styner2023/My-Digital-Resume.git
+git clone https://github.com/StynerStiner/My-Digital-Resume.git
 Navigate into the project directory:
 
 bash
